@@ -1,0 +1,7 @@
+langchain>=0.1.46
+langchain-core>=0.1.46
+langchain-community
+langchain-ollama
+langchain-text-splitters
+python-dotenv
+chromadb
