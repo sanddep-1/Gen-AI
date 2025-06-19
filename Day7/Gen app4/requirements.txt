@@ -1,0 +1,4 @@
+langchain
+langchain_community
+load_dotenv
+langchain_Ollama
